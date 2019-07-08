@@ -1,0 +1,9 @@
+<resources>
+    <string name="not_recognized">Not recognized</string>
+    <string name="app_name">Customer check-in</string>
+    <string name="check_in_failed_2">Check-in failed. Please try again</string>
+    <string name="error">Something went wrong. Please try again!</string>
+    <string name="check_in_ok">Check-in successfully. Welcome %s</string>
+    <string name="sign_in_ok">Sign in successfully. Welcome %s</string>
+
+</resources>
